@@ -2,7 +2,7 @@
 
 A test class name must foloow a naming convention:
 
-*Test or Test* or *TestCase
+\*Test or Test\* or \*TestCase
 
 [`@Annotations`](https://github.com/kotelisk/junit-course/blob/master/anotations.md)
 
