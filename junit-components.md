@@ -12,3 +12,6 @@ Cover the following code with JUnit tests
 
 ##### Additional
 [`Here`](http://www.java2s.com/Code/Java/) you can find more code to cover with JUnit tests.
+
+### Resources
+[`JUnit4 project`](http://junit.org/junit4/)
