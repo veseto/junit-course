@@ -2,6 +2,8 @@
 
 [`@Annotations`](https://github.com/kotelisk/junit-course/blob/master/anotations.md)
 
+[`Assertions`](https://github.com/kotelisk/junit-course/blob/master/assertions.md) 
+
 [`Runners`](https://github.com/kotelisk/junit-course/blob/master/runners.md)
 
 [`Matchers`](https://github.com/kotelisk/junit-course/blob/master/hamcrest-matchers.md)
