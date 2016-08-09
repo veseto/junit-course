@@ -1,5 +1,9 @@
 ### Topics:
 
+A test class name must foloow a naming convention:
+
+*Test or Test* or *TestCase
+
 [`@Annotations`](https://github.com/kotelisk/junit-course/blob/master/anotations.md)
 
 [`Assertions`](https://github.com/kotelisk/junit-course/blob/master/assertions.md) 
