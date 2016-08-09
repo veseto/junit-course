@@ -1,4 +1,4 @@
-package com.sap.junit.simple;
+package com.sap.junit.simpletest;
 
 public class EmpBusinessLogic {
 	public double calculateYearlySalary(EmployeeDetails employeeDetails) {

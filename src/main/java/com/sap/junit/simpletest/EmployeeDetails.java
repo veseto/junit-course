@@ -1,4 +1,4 @@
-package com.sap.junit.simple;
+package com.sap.junit.simpletest;
 
 public class EmployeeDetails {
 	private String name;

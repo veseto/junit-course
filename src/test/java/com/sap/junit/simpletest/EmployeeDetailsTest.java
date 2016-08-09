@@ -1,7 +1,10 @@
-package com.sap.junit.simple;
+package com.sap.junit.simpletest;
 
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
+
+import com.sap.junit.simpletest.EmpBusinessLogic;
+import com.sap.junit.simpletest.EmployeeDetails;
 
 public class EmployeeDetailsTest {
 	EmpBusinessLogic empBusinessLogic = new EmpBusinessLogic();
