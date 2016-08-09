@@ -1,12 +1,7 @@
 
 [`@Annotations`](https://github.com/kotelisk/junit-course/blob/master/anotations.md)
 
-**@RunWith**
-
-When a class is annotated with @RunWith or extends a class annotated with @RunWith, JUnit will invoke the class it references to run the tests in that class instead of the runner built into JUnit.
-
-
-**@Suite.SuiteClasses**
+[`Runners`](https://github.com/kotelisk/junit-course/blob/master/runners.md)
 
 ### Exercises:
 Cover the following code with JUnit tests
