@@ -3,6 +3,8 @@
 
 [`Runners`](https://github.com/kotelisk/junit-course/blob/master/runners.md)
 
+[`Matchers`](https://github.com/kotelisk/junit-course/blob/master/hamcrest-matchers.md)
+
 ### Exercises:
 Cover the following code with JUnit tests
 [`anagrams`](http://www.java2s.com/Code/Java/Collections-Data-Structure/Anagrams.htm)
