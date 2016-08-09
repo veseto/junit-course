@@ -15,4 +15,5 @@ Cover the following code with JUnit tests
 
 ### Resources
 [`JUnit4 project`](http://junit.org/junit4/)
+
 [`Hamcrest project`] (http://hamcrest.org/JavaHamcrest/)
