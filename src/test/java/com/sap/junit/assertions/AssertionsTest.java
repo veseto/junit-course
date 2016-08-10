@@ -1,12 +1,13 @@
 package com.sap.junit.assertions;
 
+import java.util.Arrays;
 import org.hamcrest.core.CombinableMatcher;
 import org.junit.Test;
 import static org.hamcrest.CoreMatchers.allOf;
 import static org.hamcrest.CoreMatchers.anyOf;
 import static org.hamcrest.CoreMatchers.both;
 import static org.hamcrest.CoreMatchers.containsString;
-import static org.hamcrest.CoreMatchers.equalTo;
+import static org.hamcrest.CoreMatchers.equalTo; 
 import static org.hamcrest.CoreMatchers.everyItem;
 import static org.hamcrest.CoreMatchers.hasItems;
 import static org.hamcrest.CoreMatchers.not;
@@ -22,9 +23,8 @@ import static org.junit.Assert.assertSame;
 import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
 
-import java.util.Arrays;
+public class AssertionsTest{
 
-public class AssertTests {
 	@Test
 	public void testAssertArrayEquals() {
 		byte[] expected = "trial".getBytes();
