@@ -5,7 +5,8 @@ import java.util.ArrayList;
 public class ExceptionsThrower {
 
 	public void throwIndexOutOfBoundsException(){
-		new ArrayList<Object>().get(0);
+		ArrayList<Object> al = new ArrayList<Object>();
+		al.get(0);
 	}
 	
 	public void throwRuntimeException(){
