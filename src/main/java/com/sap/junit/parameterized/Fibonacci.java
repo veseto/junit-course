@@ -1,4 +1,4 @@
-package com.sap.junit;
+package com.sap.junit.parameterized;
 
 public class Fibonacci {
 	public static int compute(int n) {
