@@ -19,6 +19,11 @@
 
 [`Parameterized Tests`](https://github.com/junit-team/junit4/wiki/Parameterized-tests)
 
+
+#### (Optional)
+
+[`Assumptions with Assume`](https://github.com/junit-team/junit4/wiki/Assumptions-with-assume)
+
 [`Rules`](https://github.com/junit-team/junit4/wiki/Rules)
 
 [`Theories`](https://github.com/junit-team/junit4/wiki/Theories)
@@ -35,9 +40,6 @@
 
 [`Continuous Testing`](https://github.com/junit-team/junit4/wiki/Continuous-testing)
 
-#### (Optional)
-
-[`Assumptions with Assume`](https://github.com/junit-team/junit4/wiki/Assumptions-with-assume)
 
 ### Exercises:
 Cover the following code with JUnit tests
