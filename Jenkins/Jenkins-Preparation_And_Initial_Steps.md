@@ -2,10 +2,10 @@
 
 ##Content
 In this exercise you will perform some general steps and settings. You will:
-- fork the [`buletinboard-ads`](https://github.wdf.sap.corp/cc-devops-course/bulletinboard-ads) project
+- fork the [`junit-course`](https://github.com/kotelisk/junit-course) project
 - set some global system settings in your Jenkins server
 - establish SSH connection between Jenkins and GitHub
-- create a hello world job
+- create a test job
 
 ##Step 1: Download Jenkins CI
 - Download Jenkins Windows installer [`jenkins-ci Windows Installer`](http://gherkin.jenkins-ci.org/content/thank-you-downloading-windows-installer/)
@@ -13,8 +13,9 @@ In this exercise you will perform some general steps and settings. You will:
 
 ##Step 2: Proxy settings
 
-- Change `Server` to `proxy.wdf.sap.corp`
+- Change `Server` to `proxy`
 - Set port to `8080`
+- No proxy hosts: *.wdf.sap.corp, repo.maven.apache.org, github.com
 - Press the button `Submit`
 - Wait 15 secounds
 - At the bottom of the page press the button `Check now`
