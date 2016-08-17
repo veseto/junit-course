@@ -54,3 +54,4 @@ Cover the following code with JUnit tests
 [`JUnit4 project`](http://junit.org/junit4/)
 
 [`Hamcrest project`] (http://hamcrest.org/JavaHamcrest/)
+[`hamcrest API`](http://hamcrest.org/JavaHamcrest/javadoc/1.3/)
