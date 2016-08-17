@@ -1,6 +1,8 @@
 
 ## Topics
 
+[`Use with Maven`](https://github.com/junit-team/junit4/wiki/Use-with-Maven)
+
 [`Assertions`](https://github.com/junit-team/junit4/wiki/Assertions)
 
 [`Test Runners`](https://github.com/junit-team/junit4/wiki/Test-runners)
@@ -31,8 +33,6 @@
 [`Test Fixtures`](https://github.com/junit-team/junit4/wiki/Test-fixtures)
 
 [`Categories`](https://github.com/junit-team/junit4/wiki/Categories)
-
-[`Use with Maven`](https://github.com/junit-team/junit4/wiki/Use-with-Maven)
 
 [`Multithreaded code and Concurrency`](https://github.com/junit-team/junit4/wiki/Multithreaded-code-and-concurrency)
 
